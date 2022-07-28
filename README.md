@@ -1,3 +1,37 @@
+
+# HTML, CSS, and GIT refactor.
+
+This first challenge for the DU coding bootcamp. The purpose was to refactor a partially functional website to use semantic tags and fix some broken internal links. The original text of the assignment can be found below and the [completed and deployed assignment can be found here.](https://jamesyoungghusername.github.io/DUBootcampChallenge1Horiseon/)
+
+Because most of the changes were in code details, the github repository is [available here](https://github.com/jamesyoungGHusername/DUBootcampChallenge1Horiseon).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
